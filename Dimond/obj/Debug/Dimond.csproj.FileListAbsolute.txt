@@ -1,0 +1,7 @@
+C:\Users\jack chapman\source\repos\Katas\Dimond\Dimond\bin\Debug\Dimond.exe.config
+C:\Users\jack chapman\source\repos\Katas\Dimond\Dimond\bin\Debug\Dimond.exe
+C:\Users\jack chapman\source\repos\Katas\Dimond\Dimond\bin\Debug\Dimond.pdb
+C:\Users\jack chapman\source\repos\Katas\Dimond\Dimond\obj\Debug\Dimond.csprojAssemblyReference.cache
+C:\Users\jack chapman\source\repos\Katas\Dimond\Dimond\obj\Debug\Dimond.csproj.CoreCompileInputs.cache
+C:\Users\jack chapman\source\repos\Katas\Dimond\Dimond\obj\Debug\Dimond.exe
+C:\Users\jack chapman\source\repos\Katas\Dimond\Dimond\obj\Debug\Dimond.pdb
